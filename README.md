@@ -47,7 +47,7 @@ Uma API robusta para gerenciamento de tarefas pessoais, desenvolvida com tecnolo
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/api-task-list.git
+   git clone https://github.com/WelingtonGulinelli/API-Task-List.git
    cd api-task-list
    ```
 
